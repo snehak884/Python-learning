@@ -1,0 +1,20 @@
+# a = input("Enter first number") 
+# a = int(a) # convert a to int version of a
+# print(a + 3)
+
+a = int(input("Enter first number"))
+# a = int(a)
+b = int(input("Enter second number"))
+# b = int(b)
+
+print(a + b)
+
+# VS Code: Ctrl + / (Windows/Linux) or Cmd + / (Mac).
+
+c = input ("Number")
+
+d = input ("Number")
+
+print (c + d )
+
+# without converting into the int
