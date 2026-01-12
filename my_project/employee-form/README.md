@@ -540,3 +540,7 @@ def submit_form():
 - See `08_EMAIL_GUIDE.md` for more details and alternatives
 
 Both are straightforward to add when needed.
+
+
+more info : https://dailypythonprojects.substack.com/t/api
+
